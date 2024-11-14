@@ -1,0 +1,14 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\bin\Debug\net8.0\Relembrando3.2.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\bin\Debug\net8.0\Relembrando3.2.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\bin\Debug\net8.0\Relembrando3.2.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\bin\Debug\net8.0\Relembrando3.2.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\bin\Debug\net8.0\Relembrando3.2.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\Relembrando3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\Relembrando3.2.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\Relembrando3.2.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\Relembrando3.2.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\Relembrando3.2.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\refint\Relembrando3.2.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\Relembrando3.2.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\Relembrando3.2.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Relembrando3.2\obj\Debug\net8.0\ref\Relembrando3.2.dll

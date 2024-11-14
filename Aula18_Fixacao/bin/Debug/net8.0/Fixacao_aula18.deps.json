@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fixacao_aula18/1.0.0": {
+        "runtime": {
+          "Fixacao_aula18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fixacao_aula18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
