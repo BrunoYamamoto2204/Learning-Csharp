@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\bin\Debug\net8.0\ex4_estrutura_sequencial.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\bin\Debug\net8.0\ex4_estrutura_sequencial.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\bin\Debug\net8.0\ex4_estrutura_sequencial.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\bin\Debug\net8.0\ex4_estrutura_sequencial.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\bin\Debug\net8.0\ex4_estrutura_sequencial.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\refint\ex4_estrutura_sequencial.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ex4_estrutura_sequencial.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex4_estrutura_sequencial\obj\Debug\net8.0\ref\ex4_estrutura_sequencial.dll

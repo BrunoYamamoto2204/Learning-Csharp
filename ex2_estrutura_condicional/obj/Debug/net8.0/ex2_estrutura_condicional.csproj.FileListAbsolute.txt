@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\bin\Debug\net8.0\ex2_estrutura_condicional.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\bin\Debug\net8.0\ex2_estrutura_condicional.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\bin\Debug\net8.0\ex2_estrutura_condicional.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\bin\Debug\net8.0\ex2_estrutura_condicional.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\bin\Debug\net8.0\ex2_estrutura_condicional.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\refint\ex2_estrutura_condicional.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ex2_estrutura_condicional.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex2_estrutura_condicional\obj\Debug\net8.0\ref\ex2_estrutura_condicional.dll
