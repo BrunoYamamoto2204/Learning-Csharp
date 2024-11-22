@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj": {}
+    "c:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj": {
+    "c:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj",
+        "projectUniqueName": "c:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj",
         "projectName": "Relembrando3.2",
-        "projectPath": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj",
+        "projectPath": "c:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\Relembrando3.2.csproj",
         "packagesPath": "C:\\Users\\bruhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\obj\\",
+        "outputPath": "c:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Relembrando3.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruhi\\AppData\\Roaming\\NuGet\\NuGet.Config"

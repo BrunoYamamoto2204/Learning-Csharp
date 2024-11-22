@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\bin\Debug\net8.0\ex1_estrutura_repetitiva.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\bin\Debug\net8.0\ex1_estrutura_repetitiva.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\bin\Debug\net8.0\ex1_estrutura_repetitiva.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\bin\Debug\net8.0\ex1_estrutura_repetitiva.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\bin\Debug\net8.0\ex1_estrutura_repetitiva.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\refint\ex1_estrutura_repetitiva.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ex1_estrutura_repetitiva.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\ex1_estrutura_repetitiva\obj\Debug\net8.0\ref\ex1_estrutura_repetitiva.dll
