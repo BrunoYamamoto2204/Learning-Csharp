@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex3_estrutura_sequencial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c1b1eb7a1817a027b5bfedeac702d985f48e2be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c727c24f91ca531e0e63e8eeb6a556240803073")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex3_estrutura_sequencial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex3_estrutura_sequencial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

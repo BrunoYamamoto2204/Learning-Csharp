@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\bin\Debug\net8.0\Aula71_Fixacao.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\bin\Debug\net8.0\Aula71_Fixacao.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\bin\Debug\net8.0\Aula71_Fixacao.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\bin\Debug\net8.0\Aula71_Fixacao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\bin\Debug\net8.0\Aula71_Fixacao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\refint\Aula71_Fixacao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\Aula71_Fixacao.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula71_Fixacao\obj\Debug\net8.0\ref\Aula71_Fixacao.dll
