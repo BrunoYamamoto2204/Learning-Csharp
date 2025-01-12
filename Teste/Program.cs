@@ -1,23 +1,23 @@
 ﻿using System;
 
-namespace Course{
-    class Program{
-        static void Main(string[] args){
+namespace Course
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
             Console.WriteLine(new string('-',40));
 
-            int[] array = new int[] {1,2,3};
-            List<int> lista = new List<int> {4,5,6};
+            string[] data = Console.ReadLine().Split("/");
+            int mes = int.Parse(data[0]);
+            int ano = int.Parse(data[1]);
 
-            int achou = lista.Find(x => x == 5);
-            System.Console.WriteLine(achou);
+            System.Console.WriteLine($"Mês: {mes}");
+            System.Console.WriteLine($"Ano: {ano}");
         
-            // foreach(int c in lista){
-            //     Console.Write(c + " ");
-            // }
-
-
-            System.Console.WriteLine();
             Console.WriteLine(new string('-',40));
+
+            
         } 
     }
 }

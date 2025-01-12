@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula97_Enumeracoes/1.0.0": {
+        "runtime": {
+          "Aula97_Enumeracoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula97_Enumeracoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

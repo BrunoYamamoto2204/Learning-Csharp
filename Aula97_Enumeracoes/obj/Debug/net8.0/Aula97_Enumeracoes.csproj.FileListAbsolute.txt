@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\bin\Debug\net8.0\Aula97_Enumeracoes.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\bin\Debug\net8.0\Aula97_Enumeracoes.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\bin\Debug\net8.0\Aula97_Enumeracoes.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\bin\Debug\net8.0\Aula97_Enumeracoes.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\bin\Debug\net8.0\Aula97_Enumeracoes.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\refint\Aula97_Enumeracoes.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\Aula97_Enumeracoes.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula97_Enumeracoes\obj\Debug\net8.0\ref\Aula97_Enumeracoes.dll

@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\bin\Debug\net8.0\MetodosDeString.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\bin\Debug\net8.0\MetodosDeString.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\bin\Debug\net8.0\MetodosDeString.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\bin\Debug\net8.0\MetodosDeString.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\bin\Debug\net8.0\MetodosDeString.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\refint\MetodosDeString.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\MetodosDeString.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\MetodosDeString\obj\Debug\net8.0\ref\MetodosDeString.dll
