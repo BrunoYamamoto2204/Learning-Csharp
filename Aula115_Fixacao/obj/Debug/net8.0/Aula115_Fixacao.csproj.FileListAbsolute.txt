@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\bin\Debug\net8.0\Aula115_Fixacao.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\bin\Debug\net8.0\Aula115_Fixacao.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\bin\Debug\net8.0\Aula115_Fixacao.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\bin\Debug\net8.0\Aula115_Fixacao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\bin\Debug\net8.0\Aula115_Fixacao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\refint\Aula115_Fixacao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\Aula115_Fixacao.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula115_Fixacao\obj\Debug\net8.0\ref\Aula115_Fixacao.dll

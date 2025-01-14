@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\bin\Debug\net8.0\Aula109_Upcast_Downcast.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\bin\Debug\net8.0\Aula109_Upcast_Downcast.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\bin\Debug\net8.0\Aula109_Upcast_Downcast.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\bin\Debug\net8.0\Aula109_Upcast_Downcast.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\bin\Debug\net8.0\Aula109_Upcast_Downcast.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\refint\Aula109_Upcast_Downcast.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\Aula109_Upcast_Downcast.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula109_Upcast_Downcast\obj\Debug\net8.0\ref\Aula109_Upcast_Downcast.dll

@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\bin\Debug\net8.0\Aula108_Heranca.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\bin\Debug\net8.0\Aula108_Heranca.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\bin\Debug\net8.0\Aula108_Heranca.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\bin\Debug\net8.0\Aula108_Heranca.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\bin\Debug\net8.0\Aula108_Heranca.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\refint\Aula108_Heranca.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\Aula108_Heranca.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula108_Heranca\obj\Debug\net8.0\ref\Aula108_Heranca.dll

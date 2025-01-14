@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\bin\Debug\net8.0\Aula110_Sobreposicao.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\bin\Debug\net8.0\Aula110_Sobreposicao.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\bin\Debug\net8.0\Aula110_Sobreposicao.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\bin\Debug\net8.0\Aula110_Sobreposicao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\bin\Debug\net8.0\Aula110_Sobreposicao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\refint\Aula110_Sobreposicao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\Aula110_Sobreposicao.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula110_Sobreposicao\obj\Debug\net8.0\ref\Aula110_Sobreposicao.dll
