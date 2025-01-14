@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\bin\Debug\net8.0\Aula127_Excecoes.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\bin\Debug\net8.0\Aula127_Excecoes.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\bin\Debug\net8.0\Aula127_Excecoes.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\bin\Debug\net8.0\Aula127_Excecoes.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\bin\Debug\net8.0\Aula127_Excecoes.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\refint\Aula127_Excecoes.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\Aula127_Excecoes.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula127_Excecoes\obj\Debug\net8.0\ref\Aula127_Excecoes.dll

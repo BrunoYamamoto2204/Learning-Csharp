@@ -7,7 +7,7 @@ namespace Course{
             Console.WriteLine(new string('-',40));
 
             // DateTime: Data fixa
-            // TimeSpan:Um intervalo de tempo 
+            // TimeSpan: Intervalo de tempo 
             // ISO 8601 => ("2000-08015T13:05:58Z")
 
             DateTime datetime = new DateTime (2025, 01, 10, 17, 23, 40); // Monta uma data e horário (Ano, Mês, Dia, Hora, Min, Seg)
