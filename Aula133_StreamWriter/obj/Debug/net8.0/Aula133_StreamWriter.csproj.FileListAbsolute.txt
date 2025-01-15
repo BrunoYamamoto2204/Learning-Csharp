@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\bin\Debug\net8.0\Aula133_StreamWriter.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\bin\Debug\net8.0\Aula133_StreamWriter.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\bin\Debug\net8.0\Aula133_StreamWriter.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\bin\Debug\net8.0\Aula133_StreamWriter.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\bin\Debug\net8.0\Aula133_StreamWriter.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\refint\Aula133_StreamWriter.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\Aula133_StreamWriter.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula133_StreamWriter\obj\Debug\net8.0\ref\Aula133_StreamWriter.dll

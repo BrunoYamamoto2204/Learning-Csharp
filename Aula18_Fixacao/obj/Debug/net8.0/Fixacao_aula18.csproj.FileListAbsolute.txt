@@ -12,3 +12,4 @@ C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula18_Fixacao\obj\Debug\net8.0\re
 C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula18_Fixacao\obj\Debug\net8.0\Fixacao_aula18.pdb
 C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula18_Fixacao\obj\Debug\net8.0\Fixacao_aula18.genruntimeconfig.cache
 C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula18_Fixacao\obj\Debug\net8.0\ref\Fixacao_aula18.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula18_Fixacao\obj\Debug\net8.0\Fixacao_aula18.sourcelink.json

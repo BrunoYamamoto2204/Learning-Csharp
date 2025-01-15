@@ -32,12 +32,13 @@ namespace Aula128_Fixacao
             {
                 System.Console.WriteLine("Withdraw error: " + e.Message);
             }
-
+            
             catch (Exception e)
             {
                 System.Console.WriteLine("Unexpected error: " + e.Message);
             }
 
-        }
+            string sair =  Console.ReadLine();
+        }   
     }
 }

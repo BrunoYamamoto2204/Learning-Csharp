@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\bin\Debug\net8.0\Aula134_Directory.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\bin\Debug\net8.0\Aula134_Directory.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\bin\Debug\net8.0\Aula134_Directory.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\bin\Debug\net8.0\Aula134_Directory.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\bin\Debug\net8.0\Aula134_Directory.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\refint\Aula134_Directory.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\Aula134_Directory.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula134_Directory\obj\Debug\net8.0\ref\Aula134_Directory.dll
