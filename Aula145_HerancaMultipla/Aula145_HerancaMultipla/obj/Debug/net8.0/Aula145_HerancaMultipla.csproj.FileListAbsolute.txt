@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\bin\Debug\net8.0\Aula145_HerancaMultipla.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\bin\Debug\net8.0\Aula145_HerancaMultipla.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\bin\Debug\net8.0\Aula145_HerancaMultipla.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\bin\Debug\net8.0\Aula145_HerancaMultipla.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\bin\Debug\net8.0\Aula145_HerancaMultipla.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\refint\Aula145_HerancaMultipla.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\Aula145_HerancaMultipla.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula145_HerancaMultipla\Aula145_HerancaMultipla\obj\Debug\net8.0\ref\Aula145_HerancaMultipla.dll

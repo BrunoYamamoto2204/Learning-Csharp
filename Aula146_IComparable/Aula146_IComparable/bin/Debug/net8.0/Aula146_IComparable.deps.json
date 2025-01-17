@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula146_IComparable/1.0.0": {
+        "runtime": {
+          "Aula146_IComparable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula146_IComparable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

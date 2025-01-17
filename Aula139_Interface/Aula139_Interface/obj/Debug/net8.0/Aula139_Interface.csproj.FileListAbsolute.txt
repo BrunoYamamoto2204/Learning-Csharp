@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\bin\Debug\net8.0\Aula139_Interface.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\bin\Debug\net8.0\Aula139_Interface.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\bin\Debug\net8.0\Aula139_Interface.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\bin\Debug\net8.0\Aula139_Interface.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\bin\Debug\net8.0\Aula139_Interface.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\refint\Aula139_Interface.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\Aula139_Interface.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula139_Interface\Aula139_Interface\obj\Debug\net8.0\ref\Aula139_Interface.dll

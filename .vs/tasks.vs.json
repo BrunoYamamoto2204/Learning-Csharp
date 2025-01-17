@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Aula103_ExResolvido",
+      "appliesTo": "Aula103_ExResolvido/",
+      "type": "launch"
+    }
+  ]
+}

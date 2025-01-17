@@ -15,7 +15,7 @@ namespace Course{
             DateTime today = DateTime.Today; // Data da máquina local (01/01/2025)
             DateTime utc = DateTime.UtcNow; // Data e horário em Greenwich 
             DateTime parse = DateTime.Parse("10/01/2000 13:05:58"); // Formata para datetime 
-            DateTime parse_exact = DateTime.ParseExact("20-10-2000", "dd-MM-yyyy",CultureInfo.InvariantCulture); // Formata uma string em formato datetime 
+            DateTime parse_exact = DateTime.ParseExact("20-10-2000", "dd-MM-yyyy",CultureInfo.InvariantCulture); // Formata uma string em formato escrito
             DayOfWeek day_of_week = datetime.DayOfWeek; // Dia da semana;
 
             string longDateString = datetime.ToLongDateString(); // Mostra a data de forma formatada
