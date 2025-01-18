@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\bin\Debug\net8.0\Aula150_Generics.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\bin\Debug\net8.0\Aula150_Generics.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\bin\Debug\net8.0\Aula150_Generics.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\bin\Debug\net8.0\Aula150_Generics.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\bin\Debug\net8.0\Aula150_Generics.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\refint\Aula150_Generics.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\Aula150_Generics.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula150_Generics\Aula150_Generics\obj\Debug\net8.0\ref\Aula150_Generics.dll

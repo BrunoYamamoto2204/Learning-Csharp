@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\bin\Debug\net8.0\Aula154_Igualdade.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\bin\Debug\net8.0\Aula154_Igualdade.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\bin\Debug\net8.0\Aula154_Igualdade.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\bin\Debug\net8.0\Aula154_Igualdade.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\bin\Debug\net8.0\Aula154_Igualdade.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\refint\Aula154_Igualdade.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\Aula154_Igualdade.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula154_Igualdade\Aula154_Igualdade\obj\Debug\net8.0\ref\Aula154_Igualdade.dll

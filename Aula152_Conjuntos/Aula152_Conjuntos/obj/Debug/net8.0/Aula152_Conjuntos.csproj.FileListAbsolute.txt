@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\bin\Debug\net8.0\Aula152_Conjuntos.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\bin\Debug\net8.0\Aula152_Conjuntos.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\bin\Debug\net8.0\Aula152_Conjuntos.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\bin\Debug\net8.0\Aula152_Conjuntos.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\bin\Debug\net8.0\Aula152_Conjuntos.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\refint\Aula152_Conjuntos.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\Aula152_Conjuntos.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula152_Conjuntos\Aula152_Conjuntos\obj\Debug\net8.0\ref\Aula152_Conjuntos.dll

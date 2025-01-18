@@ -22,7 +22,7 @@ namespace Aula146_IComparable.Entities
         public int CompareTo(object obj)
         {
             if (!(obj is Employee)){
-                throw new ArgumentException("Comparing error: ar  gument is not an Employee");
+                throw new ArgumentException("Comparing error: argument is not an Employee");
             }
             Employee other = obj as Employee;
             return Salary.CompareTo(other.Salary);

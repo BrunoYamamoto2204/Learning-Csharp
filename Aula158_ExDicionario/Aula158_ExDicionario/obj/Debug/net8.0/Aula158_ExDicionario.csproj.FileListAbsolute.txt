@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\bin\Debug\net8.0\Aula158_ExDicionario.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\bin\Debug\net8.0\Aula158_ExDicionario.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\bin\Debug\net8.0\Aula158_ExDicionario.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\bin\Debug\net8.0\Aula158_ExDicionario.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\bin\Debug\net8.0\Aula158_ExDicionario.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\refint\Aula158_ExDicionario.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\Aula158_ExDicionario.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula158_ExDicionario\Aula158_ExDicionario\obj\Debug\net8.0\ref\Aula158_ExDicionario.dll

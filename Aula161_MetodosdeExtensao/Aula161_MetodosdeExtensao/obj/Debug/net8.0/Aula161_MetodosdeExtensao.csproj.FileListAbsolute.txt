@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\bin\Debug\net8.0\Aula161_MetodosdeExtensao.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\bin\Debug\net8.0\Aula161_MetodosdeExtensao.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\bin\Debug\net8.0\Aula161_MetodosdeExtensao.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\bin\Debug\net8.0\Aula161_MetodosdeExtensao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\bin\Debug\net8.0\Aula161_MetodosdeExtensao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\refint\Aula161_MetodosdeExtensao.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\Aula161_MetodosdeExtensao.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula161_MetodosdeExtensao\Aula161_MetodosdeExtensao\obj\Debug\net8.0\ref\Aula161_MetodosdeExtensao.dll

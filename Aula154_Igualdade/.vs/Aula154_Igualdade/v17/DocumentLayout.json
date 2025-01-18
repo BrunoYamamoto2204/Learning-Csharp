@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula154_Igualdade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA36DF-130B-41A6-B6CE-5BD030BE033C}|Aula154_Igualdade\\Aula154_Igualdade.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula154_igualdade\\aula154_igualdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DA36DF-130B-41A6-B6CE-5BD030BE033C}|Aula154_Igualdade\\Aula154_Igualdade.csproj|solutionrelative:aula154_igualdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA36DF-130B-41A6-B6CE-5BD030BE033C}|Aula154_Igualdade\\Aula154_Igualdade.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula154_igualdade\\aula154_igualdade\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DA36DF-130B-41A6-B6CE-5BD030BE033C}|Aula154_Igualdade\\Aula154_Igualdade.csproj|solutionrelative:aula154_igualdade\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA36DF-130B-41A6-B6CE-5BD030BE033C}|Aula154_Igualdade\\Aula154_Igualdade.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula154_igualdade\\aula154_igualdade\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DA36DF-130B-41A6-B6CE-5BD030BE033C}|Aula154_Igualdade\\Aula154_Igualdade.csproj|solutionrelative:aula154_igualdade\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula154_Igualdade\\Aula154_Igualdade\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Aula154_Igualdade\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula154_Igualdade\\Aula154_Igualdade\\Entities\\Product.cs",
+              "RelativeToolTip": "Aula154_Igualdade\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:29:00.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula154_Igualdade\\Aula154_Igualdade\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "Aula154_Igualdade\\Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula154_Igualdade\\Aula154_Igualdade\\Entities\\Point.cs",
+              "RelativeToolTip": "Aula154_Igualdade\\Entities\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:28:50.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula154_Igualdade\\Aula154_Igualdade\\Program.cs",
+              "RelativeDocumentMoniker": "Aula154_Igualdade\\Program.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula154_Igualdade\\Aula154_Igualdade\\Program.cs*",
+              "RelativeToolTip": "Aula154_Igualdade\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:28:25.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

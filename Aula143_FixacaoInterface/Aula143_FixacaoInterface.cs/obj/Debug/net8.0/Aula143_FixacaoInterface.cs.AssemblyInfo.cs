@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula143_FixacaoInterface.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc809913e6a9cd1684beba91c141c49d1bd53cad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec27d86f943a6eb4ef24876a189453ac1cfb9302")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula143_FixacaoInterface.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula143_FixacaoInterface.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
