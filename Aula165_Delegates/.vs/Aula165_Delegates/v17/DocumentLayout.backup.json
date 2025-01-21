@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula165_Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{155E00FE-CE9C-4247-ABDD-A296B96F8133}|Aula165_Delegates\\Aula165_Delegates.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula165_delegates\\aula165_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E00FE-CE9C-4247-ABDD-A296B96F8133}|Aula165_Delegates\\Aula165_Delegates.csproj|solutionrelative:aula165_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155E00FE-CE9C-4247-ABDD-A296B96F8133}|Aula165_Delegates\\Aula165_Delegates.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula165_delegates\\aula165_delegates\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E00FE-CE9C-4247-ABDD-A296B96F8133}|Aula165_Delegates\\Aula165_Delegates.csproj|solutionrelative:aula165_delegates\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula165_Delegates\\Aula165_Delegates\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Aula165_Delegates\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula165_Delegates\\Aula165_Delegates\\Services\\CalculationService.cs",
+              "RelativeToolTip": "Aula165_Delegates\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:58:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula165_Delegates\\Aula165_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Aula165_Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula165_Delegates\\Aula165_Delegates\\Program.cs",
+              "RelativeToolTip": "Aula165_Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:57:25.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

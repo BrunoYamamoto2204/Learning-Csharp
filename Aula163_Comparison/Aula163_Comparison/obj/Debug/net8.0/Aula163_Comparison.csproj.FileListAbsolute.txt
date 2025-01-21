@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\bin\Debug\net8.0\Aula163_Comparison.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\bin\Debug\net8.0\Aula163_Comparison.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\bin\Debug\net8.0\Aula163_Comparison.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\bin\Debug\net8.0\Aula163_Comparison.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\bin\Debug\net8.0\Aula163_Comparison.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\refint\Aula163_Comparison.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\Aula163_Comparison.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula163_Comparison\Aula163_Comparison\obj\Debug\net8.0\ref\Aula163_Comparison.dll

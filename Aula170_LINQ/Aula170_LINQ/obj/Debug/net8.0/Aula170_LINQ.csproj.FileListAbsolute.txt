@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\bin\Debug\net8.0\Aula170_LINQ.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\bin\Debug\net8.0\Aula170_LINQ.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\bin\Debug\net8.0\Aula170_LINQ.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\bin\Debug\net8.0\Aula170_LINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\bin\Debug\net8.0\Aula170_LINQ.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\refint\Aula170_LINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\Aula170_LINQ.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula170_LINQ\Aula170_LINQ\obj\Debug\net8.0\ref\Aula170_LINQ.dll

@@ -15,7 +15,7 @@
                 }
             }
             catch (IOException e){
-                System.Console.WriteLine("An error accurred:");
+                System.Console.WriteLine("An error occurred:");
                 System.Console.WriteLine(e.Message);
             }
             finally{

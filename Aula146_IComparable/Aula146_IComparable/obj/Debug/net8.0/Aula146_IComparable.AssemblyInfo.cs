@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula146_IComparable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec27d86f943a6eb4ef24876a189453ac1cfb9302")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a95bdb12fbbfa93cc4785791aaebe62bce9d900")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula146_IComparable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula146_IComparable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\bin\Debug\net8.0\Aula176_ExResolvindoLINQ.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\bin\Debug\net8.0\Aula176_ExResolvindoLINQ.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\bin\Debug\net8.0\Aula176_ExResolvindoLINQ.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\bin\Debug\net8.0\Aula176_ExResolvindoLINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\bin\Debug\net8.0\Aula176_ExResolvindoLINQ.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\refint\Aula176_ExResolvindoLINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\Aula176_ExResolvindoLINQ.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula176_ExResolvindoLINQ\Aula176_ExResolvindoLINQ\obj\Debug\net8.0\ref\Aula176_ExResolvindoLINQ.dll

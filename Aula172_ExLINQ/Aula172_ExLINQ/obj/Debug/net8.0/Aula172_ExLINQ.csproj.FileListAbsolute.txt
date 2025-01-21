@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\bin\Debug\net8.0\Aula172_ExLINQ.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\bin\Debug\net8.0\Aula172_ExLINQ.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\bin\Debug\net8.0\Aula172_ExLINQ.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\bin\Debug\net8.0\Aula172_ExLINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\bin\Debug\net8.0\Aula172_ExLINQ.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\refint\Aula172_ExLINQ.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\Aula172_ExLINQ.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula172_ExLINQ\Aula172_ExLINQ\obj\Debug\net8.0\ref\Aula172_ExLINQ.dll

@@ -1,0 +1,15 @@
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\bin\Debug\net8.0\Aula169_Func.exe
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\bin\Debug\net8.0\Aula169_Func.deps.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\bin\Debug\net8.0\Aula169_Func.runtimeconfig.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\bin\Debug\net8.0\Aula169_Func.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\bin\Debug\net8.0\Aula169_Func.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.AssemblyInfoInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.AssemblyInfo.cs
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.csproj.CoreCompileInputs.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.sourcelink.json
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\refint\Aula169_Func.dll
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.pdb
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\Aula169_Func.genruntimeconfig.cache
+C:\Users\bruhi\OneDrive\Documentos\Pratica_C#\Aula169_Func\Aula169_Func\obj\Debug\net8.0\ref\Aula169_Func.dll

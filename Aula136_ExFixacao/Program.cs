@@ -33,7 +33,7 @@ namespace Aula136_ExFixacao
                 }
             }
             catch (Exception e) {
-                System.Console.WriteLine("An error acurred");
+                System.Console.WriteLine("An error occurred:");
                 System.Console.WriteLine(e.Message);
             }
 

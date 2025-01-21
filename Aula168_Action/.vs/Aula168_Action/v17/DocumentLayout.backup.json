@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula168_Action\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BA7FB-DA79-4B4A-8AD3-4C55E02ABAF3}|Aula168_Action\\Aula168_Action.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula168_action\\aula168_action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BA7FB-DA79-4B4A-8AD3-4C55E02ABAF3}|Aula168_Action\\Aula168_Action.csproj|solutionrelative:aula168_action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BA7FB-DA79-4B4A-8AD3-4C55E02ABAF3}|Aula168_Action\\Aula168_Action.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula168_action\\aula168_action\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BA7FB-DA79-4B4A-8AD3-4C55E02ABAF3}|Aula168_Action\\Aula168_Action.csproj|solutionrelative:aula168_action\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula168_Action\\Aula168_Action\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Aula168_Action\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula168_Action\\Aula168_Action\\Entities\\Product.cs*",
+              "RelativeToolTip": "Aula168_Action\\Entities\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:05:54.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula168_Action\\Aula168_Action\\Program.cs",
+              "RelativeDocumentMoniker": "Aula168_Action\\Program.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula168_Action\\Aula168_Action\\Program.cs*",
+              "RelativeToolTip": "Aula168_Action\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:05:33.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

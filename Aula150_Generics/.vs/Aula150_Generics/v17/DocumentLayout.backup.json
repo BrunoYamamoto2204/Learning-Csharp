@@ -34,12 +34,11 @@
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula150_Generics\\Aula150_Generics\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Aula150_Generics\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula150_Generics\\Aula150_Generics\\Entities\\Product.cs*",
-              "RelativeToolTip": "Aula150_Generics\\Entities\\Product.cs*",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula150_Generics\\Aula150_Generics\\Entities\\Product.cs",
+              "RelativeToolTip": "Aula150_Generics\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T15:03:32.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T15:03:32.031Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Aula150_Generics\\Services\\CalculationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T15:02:55.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T15:02:55.591Z"
             },
             {
               "$type": "Document",
@@ -60,9 +58,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula150_Generics\\Aula150_Generics\\Program.cs",
               "RelativeDocumentMoniker": "Aula150_Generics\\Program.cs",
-              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula150_Generics\\Aula150_Generics\\Program.cs*",
-              "RelativeToolTip": "Aula150_Generics\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula150_Generics\\Aula150_Generics\\Program.cs",
+              "RelativeToolTip": "Aula150_Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T14:27:11.934Z",
               "EditorCaption": ""
