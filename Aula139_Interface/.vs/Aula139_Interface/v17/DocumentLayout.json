@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|solutionrelative:aula139_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\aula139_interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|solutionrelative:aula139_interface\\aula139_interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|solutionrelative:aula139_interface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\services\\braziltaxsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|solutionrelative:aula139_interface\\services\\braziltaxsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|solutionrelative:aula139_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|solutionrelative:aula139_interface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|solutionrelative:aula139_interface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DDC44CF-0555-4A2C-9245-8BC31B7A6DBD}|Aula139_Interface\\Aula139_Interface.csproj|c:\\users\\bruhi\\onedrive\\documentos\\pratica_c#\\aula139_interface\\aula139_interface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,33 +46,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Aula139_Interface",
-              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Aula139_Interface.csproj",
-              "RelativeDocumentMoniker": "Aula139_Interface\\Aula139_Interface.csproj",
-              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Aula139_Interface.csproj",
-              "RelativeToolTip": "Aula139_Interface\\Aula139_Interface.csproj",
+              "DocumentIndex": 3,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Aula139_Interface\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "Aula139_Interface\\Services\\ITaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T13:14:30.46Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:29:36.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "Aula139_Interface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "Aula139_Interface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:28:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "Aula139_Interface\\Services\\RentalService.cs",
               "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\RentalService.cs",
               "RelativeToolTip": "Aula139_Interface\\Services\\RentalService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T01:20:42.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Program.cs",
               "RelativeDocumentMoniker": "Aula139_Interface\\Program.cs",
@@ -93,8 +106,7 @@
               "RelativeToolTip": "Aula139_Interface\\Entities\\CarRental.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:59:09.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T00:59:09.715Z"
             },
             {
               "$type": "Document",
@@ -106,21 +118,7 @@
               "RelativeToolTip": "Aula139_Interface\\Entities\\Invoice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:39:06.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BrazilTaxSevice.cs",
-              "DocumentMoniker": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\BrazilTaxSevice.cs",
-              "RelativeDocumentMoniker": "Aula139_Interface\\Services\\BrazilTaxSevice.cs",
-              "ToolTip": "C:\\Users\\bruhi\\OneDrive\\Documentos\\Pratica_C#\\Aula139_Interface\\Aula139_Interface\\Services\\BrazilTaxSevice.cs",
-              "RelativeToolTip": "Aula139_Interface\\Services\\BrazilTaxSevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T01:17:33.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T00:39:06.678Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "Aula139_Interface\\Entities\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T02:39:39.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T02:39:39.331Z"
             }
           ]
         }
